@@ -1,0 +1,99 @@
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu {
+    width:100%;
+    position: relative !important;
+}
+
+
+
+
+.f13 {
+	font-size: 13px;
+}
+.f14 {
+	font-size: 14px;
+}
+.fc{
+color: #0000ff !important;
+
+}
+.main-header{
+    
+    border-bottom: 2px solid #D6CDCA
+}
+
+
+.b{font-weight: bold;}
+.padt{padding-top: 0.5rem;}
+
+.toggle{font-size: 1rem; border:none;outline: none !important;}
+
+
+.nl {
+	color: #000 !important;
+}
+
+
+.nav-tcil{
+    font-size: 16px !important; 
+    margin-top: 15px !important;
+}
+#navbarTogglerDemo02{
+ font-size: 11px !important;   
+ margin-top: -25px !important;
+}
+.tsearch{
+ font-size:15px !important;
+    padding: 2px;
+}
+.dropdown:hover > .dropdown-menu {
+    display: block;
+    cursor: pointer;
+  }
+
+  .card-header{
+    padding-top:8px;
+    padding-bottom:8px;
+  }
+  .img-thumbnail{
+    background-color: transparent;
+  }
+.fdiv{
+    text-decoration: none !important;
+    color: #5959F6 !important;
+} 
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+/** slideshow **/
+h2{
+    margin-top: 250px !important;
+	margin-bottom:0 !important;
+    text-shadow: 2px 2px rgba(129, 129, 129, 0.57);
+
+}
+.mbr-text {
+    background:rgba(221, 221, 221, 0.8);
+	    border-radius: 5px;
+    padding: 0 10px;
+	color:#000000;
+}
+.carousel-caption {
+    text-align: left !important;
+}
